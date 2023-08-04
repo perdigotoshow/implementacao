@@ -1,0 +1,23 @@
+.cabecalho{
+    background-color: var(--cor-cabecalho);
+    padding: lem;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container__imagem, .container__titulo, .container__frase {
+padding:lem ;
+
+} 
+
+.container__titulo, .container__frase {
+    display: none;
+}
+
+@media screen and (min-width:820px) { 
+
+}
+    
